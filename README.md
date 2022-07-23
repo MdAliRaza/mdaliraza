@@ -5,6 +5,12 @@
   <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif"/>
 </div>
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mdaliraza/)
+[![GMail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mdaliraza8d@gmail.com)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=Kaggle&logoColor=white)](https://www.linkedin.com/in/mdaliraza/)
+
+
 ### :fire: My GitHub Stats :
 <details><summary></summary>
 <p align="center">
