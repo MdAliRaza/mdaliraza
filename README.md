@@ -1,17 +1,14 @@
 # Hi there 👋
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MdAliRaza&label=Views&color=blue&style=for-the-badge" alt="MdAliRaza" /> </p>
 
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mdaliraza/)
-[![GMail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailmdaliraza8d@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-white?style=flat&logo=Kaggle&logoColor=blue)](https://www.kaggle.com/mdaliraza)
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/mdaliraza/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.kaggle.com/mdaliraza"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=blue" alt="Kaggle Badge"></a>
+</p>
 
 <details><summary>
 
