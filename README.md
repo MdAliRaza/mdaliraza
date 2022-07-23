@@ -1,6 +1,6 @@
 ## Hi there 👋
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MdAliRaza&label=Views&color=blue&style=for-the-badge" alt="MdAliRaza" /> </p>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif"/>
 </div>
@@ -19,7 +19,3 @@
 </p>
 </details>
 
-<!---
-MdAliRaza/mdaliraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
