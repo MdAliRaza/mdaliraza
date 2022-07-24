@@ -10,7 +10,7 @@
 <a href="https://www.kaggle.com/mdaliraza"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=blue" alt="Kaggle Badge"></a>
 </p>
 
-<p>
+---
 
 <img align="right" height="150" width="150" alt="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
@@ -20,6 +20,7 @@ Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - ⚡ In my free time I solve problems on GeeksforGeeks, HackerRank and read tech articles.
 - 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MdAliRaza)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/917004474159)
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -35,6 +36,7 @@ Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 </p>
 
+---
 
 <details><summary>
 
@@ -46,6 +48,7 @@ Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAliRaza&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAliRaza&layout=compact&theme=vision-friendly-dark)](https://github.com/MdAliRaza/github-readme-stats)
+
 </p>
 </details>
 
