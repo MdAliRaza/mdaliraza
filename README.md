@@ -10,14 +10,16 @@
 <a href="https://www.kaggle.com/mdaliraza"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=blue" alt="Kaggle Badge"></a>
 </p>
 
+<p>
+
+<img align="right" height="150" width="150" alt="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
 ### :man_technologist: &nbsp;About Me :
 Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
 - 🌱 Exploring Python, MySQL, EDA, PySpark, PowerBI, Tableau, Machine Learning.
 - ⚡ In my free time I solve problems on GeeksforGeeks, HackerRank and read tech articles.
 - 📫 How to reach me: &nbsp;
 ---
-
 
 ### 🛠 &nbsp;Languages and Tools :
 <p align="left"> 
@@ -31,7 +33,6 @@ Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
 </p>
-
 
 
 <details><summary>
