@@ -18,7 +18,9 @@
 Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🌱 Exploring Python, MySQL, EDA, PySpark, PowerBI, Tableau, Machine Learning.
 - ⚡ In my free time I solve problems on GeeksforGeeks, HackerRank and read tech articles.
-- 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MdAliRaza)
+- 📫 How to reach me: &nbsp; 
+<a href="mailto:mdaliraza8d@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MdAliRaza)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/917004474159)
 
 ---
